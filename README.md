@@ -56,12 +56,12 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <br>
 
-<a href="https://linkedin.com/in/jchicano">
+<a href="https://linkedin.com/in/jchicano" target="_blank">
   <img align="left" alt="Jesús Chicano | LinkedIn" width="18px" src="https://raw.githubusercontent.com/jchicano/jchicano/master/assets/linkedin.svg" />
 </a>
-<a href="https://dev.to/jchicano">
+<a href="https://dev.to/jchicano" target="_blank">
   <img align="left" alt="Jesús Chicano | Dev.to" width="45px" src="https://raw.githubusercontent.com/jchicano/jchicano/master/assets/devto.svg" />
 </a>
-<a href="https://twitter.com/jesusdchicano">
+<a href="https://twitter.com/jesusdchicano" target="_blank">
   <img align="left" alt="Jesús Chicano | Twitter" width="21px" src="https://raw.githubusercontent.com/jchicano/jchicano/master/assets/twitter.svg" />
 </a>
