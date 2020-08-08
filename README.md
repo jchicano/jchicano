@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=jchicano&show_icons=true&include_all_commits=true&theme=algolia" />
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=jchicano&show_icons=true&include_all_commits=true&theme=default" />
 
 ### Glad to see you here! <img src="https://raw.githubusercontent.com/jchicano/jchicano/master/assets/emoji.gif" width="27px">
 
@@ -18,7 +18,7 @@
 <details>
   <summary>Some statistics...</summary>
   <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchicano&layout=compact&theme=algolia" alt="jchicano's most used languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchicano&layout=compact&theme=default" alt="jchicano's most used languages"/>
 
 <br>
 <br>
@@ -53,6 +53,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://now-playing-jchicano.vercel.app/now-playing?open">
     <img align="right" src="https://now-playing-jchicano.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
+
+<br>
 
 <a href="https://linkedin.com/in/jchicano">
   <img align="left" alt="Jesús Chicano | LinkedIn" width="18px" src="https://raw.githubusercontent.com/jchicano/jchicano/master/assets/linkedin.svg" />
