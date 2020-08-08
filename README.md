@@ -21,6 +21,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchicano&layout=compact&theme=algolia" alt="jchicano's most used languages"/>
 
 <br>
+<br>
 
 **Languages and Tools:**
 
@@ -46,7 +47,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </details>
 
 <br>
-<br>
 
 <p align="right"><b>Now Playing</b> on Spotify</p>
 
@@ -54,11 +54,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
     <img align="right" src="https://now-playing-jchicano.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
-<br>
-<br>
-
 <a href="https://linkedin.com/in/jchicano">
-  <img align="left" alt="Jesús Chicano | LinkedIn" width="21px" src="https://raw.githubusercontent.com/jchicano/jchicano/master/assets/linkedin.svg" />
+  <img align="left" alt="Jesús Chicano | LinkedIn" width="18px" src="https://raw.githubusercontent.com/jchicano/jchicano/master/assets/linkedin.svg" />
 </a>
 <a href="https://dev.to/jchicano">
   <img align="left" alt="Jesús Chicano | Dev.to" width="45px" src="https://raw.githubusercontent.com/jchicano/jchicano/master/assets/devto.svg" />
