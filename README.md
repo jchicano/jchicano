@@ -15,6 +15,8 @@
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
+<br>
+
 <details>
   <summary>Some statistics...</summary>
   <br/>
