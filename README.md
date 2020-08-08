@@ -6,9 +6,6 @@
 -->
 
 <br>
-<br>
-<br>
-<br>
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=jchicano&show_icons=true&include_all_commits=true&theme=algolia" />
 
@@ -51,7 +48,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <br>
 <br>
 
-**Now Playing** on Spotify
+<p align="right"><b>Now Playing</b> on Spotify</p>
 
 <a href="https://now-playing-jchicano.vercel.app/now-playing?open">
     <img align="right" src="https://now-playing-jchicano.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
