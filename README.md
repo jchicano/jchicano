@@ -18,10 +18,8 @@
 <details>
   <summary>Some statistics...</summary>
   <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchicano&layout=compact&theme=default" alt="jchicano's most used languages"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchicano&layout=compact&theme=default" alt="jchicano's most used languages"/>
 
-<br>
-<br>
 
 **Languages and Tools:**
 
